@@ -21,7 +21,7 @@ public class Counter {
 	}
 	
 	public void decrement() {
-		count--;
+		count++;
 	}
 	
 	public void decreaseBy(int i) {
